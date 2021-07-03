@@ -1,0 +1,11 @@
+name: DSMPBot
+main: me.elJoa.dsmpbot.Bot
+version: 2.0.0
+author: elJoa
+api-version: 1.16
+depend: ["Plan", "spark"]
+commands:
+  informoneseventeen:
+    description: LololStfuXD
+    usage: /informoneseventeen
+    permission: dsmpbot.informoneseventeen
