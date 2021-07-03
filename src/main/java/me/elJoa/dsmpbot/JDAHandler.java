@@ -98,8 +98,8 @@ public class JDAHandler {
         commandSet.add(new EstadoFAQ());
         commandSet.add(new BajosFPS());
         commandSet.add(new Estadok());
-        commandSet.add(new Debate());
-        commandSet.add(new FinalizarDebate());
+//      commandSet.add(new Debate())
+//      commandSet.add(new FinalizarDebate());
 
         // Comandos administrativos
         commandSet.add(new Recargar(configHandler));
