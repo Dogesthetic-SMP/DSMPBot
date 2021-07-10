@@ -1,6 +1,6 @@
 name: DSMPBot
 main: me.elJoa.dsmpbot.Bot
-version: 2.0.0
+version: 2.0.1
 author: elJoa
 api-version: 1.17
 depend: ["Plan", "spark"]

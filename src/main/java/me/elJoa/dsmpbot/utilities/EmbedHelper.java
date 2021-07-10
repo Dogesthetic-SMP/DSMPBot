@@ -8,7 +8,7 @@ import java.awt.*;
 
 public class EmbedHelper {
     private static final String thumbnail = ConfigHandler.getSetting("thumbnail");
-    private static final String footer = "DSMPBot " + "v2.0.0" + " - " + ConfigHandler.getSetting("footer");
+    private static final String footer = "DSMPBot " + "v2.0.1" + " - " + ConfigHandler.getSetting("footer");
 
     public static EmbedBuilder newEmbedWithArrays(boolean success, @Nullable String description, String[] fieldTitles, String[] fieldValues) {
         EmbedBuilder embedBuilder = new net.dv8tion.jda.api.EmbedBuilder();
